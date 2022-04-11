@@ -2,16 +2,15 @@
 **Overview**
 - This is a tic-tac-toe game implemented in C++ which allows the user to play from the terminal
 
-- **Screen Shots**:
+## Screen Shots
 
 
-**How to Run the Game**:
--
-**Features**:
--
+## How to Run the Game
 
-**File Details**:
--
 
-**Game Menu**:
--
+## Features
+
+
+## File Details
+
+## Game Menu
