@@ -17,7 +17,9 @@
 ----
 <img width="634" alt="Computer Win" src="https://user-images.githubusercontent.com/92644639/162825510-913ada52-b2b8-4551-afb6-3d4583213ba0.png">
 + Computer Wins
-----  
+
+ 
+
 ## File Details
 - *main.cpp* - This file contains the source code for the main file
 - *iofiles.h* - This is the header file that allows writing and reading from text files
