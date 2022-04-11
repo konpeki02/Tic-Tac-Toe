@@ -12,7 +12,7 @@
 
 
 
-## Required Downloads for the Game
+## Compiling
 
 ## How to Play the Game
 
