@@ -1,0 +1,19 @@
+Enter player name: konpeki
+	1  2  3
+	4  5  6
+	7  8  9
+Choose a box 1-9
+11
+incorrect data or number added
+enter new input
+1
+
+Choose again
+	1  2  3
+	4  5  6
+	7  8  9
+Choose a box 1-9
+1
+	X  2  3
+	4  5  6
+	O  8  9
